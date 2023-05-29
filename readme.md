@@ -5,3 +5,5 @@ This is my first venture into using git and GitHub through Code Louisville. It's
 Thanks for visiting!
 
 I am creating new changes each time I use git and github so that I can practice.
+
+Here we go again...except now it's 2:30am
